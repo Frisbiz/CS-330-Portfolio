@@ -6,6 +6,7 @@ This project focused on building a 3D scene using OpenGL, where I learned key gr
 # How do I approach designing software?
 
 - What new design skills has your work on the project helped you to craft?
+
 I learned how to apply textures and tile them seamlessly across surfaces, which was crucial for creating realistic 3D environments. I also gained experience with different lighting methods, like point lights and directional lights, to improve depth and realism. Additionally, I learned to replicate complex objects by combining simple 3D shapes.
 
 - What design process did you follow for your project work?
